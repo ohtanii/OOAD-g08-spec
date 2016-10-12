@@ -1,0 +1,25 @@
+/*
+* @author ???
+* @date Wed Oct 05 14:40:10 MSK 2016
+*/
+
+package lu.uni.lassy.excalibur.myproject.usecases {
+
+import lu.uni.lassy.messir.libraries.calendar
+import lu.uni.lassy.messir.libraries.math
+import lu.uni.lassy.messir.libraries.primitives
+import lu.uni.lassy.messir.libraries.string
+import lu.uni.lassy.excalibur.myproject.environment
+
+
+
+	Use Case Model {
+	use case system subfunction oeHelloWorld() {
+			actor actYou[primary,active]
+			returned messages {
+				ieHelloWorld() returned to actYou
+			}
+		}	
+	}
+
+}
