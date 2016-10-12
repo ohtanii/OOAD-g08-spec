@@ -1,0 +1,14 @@
+package usecases.ucioeHelloWorld {
+	import lu.uni.lassy.excalibur.myproject.usecases
+	import lu.uni.lassy.excalibur.myproject.environment
+
+	Use Case Model {
+
+		use case instance ucioeHelloWorld : subfunction oeHelloWorld{
+			actors {
+				oreana : actYou
+			}
+			ieHelloWorld("Hello you") returned to oreana
+		}
+	}
+}

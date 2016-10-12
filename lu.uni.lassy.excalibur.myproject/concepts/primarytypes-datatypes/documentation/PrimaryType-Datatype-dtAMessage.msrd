@@ -1,0 +1,12 @@
+/*
+@author ???
+@date Wed Oct 05 16:46:14 MSK 2016
+*/
+
+
+@@Primary Type Datatype lu.uni.lassy.excalibur.myproject.concepts.primarytypes.datatypes.dtAMessage
+@description "Is representing the Hello World message type."
+@attribute
+lu.uni.lassy.excalibur.myproject.concepts.primarytypes.datatypes.dtAMessage.value
+""
+@endAttributes

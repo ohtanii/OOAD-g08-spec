@@ -1,0 +1,28 @@
+/*
+@author ???
+@date Wed Oct 05 17:09:08 MSK 2016
+*/
+
+
+@@Operation
+lu.uni.lassy.excalibur.myproject.environment.actYou.outactactorName.oeHelloWorld
+@description "
+ "
+//preProtocol descriptions
+@preP
+" "
+@endPreP
+//preFunctional descriptions
+@preF
+" "
+@endPreF
+//postFunctional descriptions
+@postF 
+" "
+@endPostF
+//postProtocol descriptions
+@postP 
+" "
+@endPostP
+//example
+@example" "

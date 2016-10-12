@@ -1,0 +1,10 @@
+/*
+@author ???
+@date Wed Oct 05 15:04:48 MSK 2016
+*/
+
+
+@@view uci-ucioeHelloWorld
+@instance Use-Case usecases.ucioeHelloWorld.ucioeHelloWorld 
+@description ""
+@caption ""

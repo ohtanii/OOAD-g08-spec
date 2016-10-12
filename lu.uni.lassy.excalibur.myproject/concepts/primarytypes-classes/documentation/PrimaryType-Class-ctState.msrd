@@ -1,0 +1,16 @@
+/*
+@author ???
+@date Wed Oct 05 15:05:48 MSK 2016
+*/
+
+
+@@Primary Type Class lu.uni.lassy.excalibur.myproject.concepts.primarytypes.classes.ctState
+@description ""
+@attribute
+lu.uni.lassy.excalibur.myproject.concepts.primarytypes.classes.ctState.vpStarted
+""
+@endAttributes
+@operation
+lu.uni.lassy.excalibur.myproject.concepts.primarytypes.classes.ctState.init
+""
+@endOperations

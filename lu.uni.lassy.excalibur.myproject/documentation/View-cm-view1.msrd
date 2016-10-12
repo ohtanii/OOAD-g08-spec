@@ -1,0 +1,13 @@
+/*
+@author ???
+@date Wed Oct 05 16:39:30 MSK 2016
+*/
+
+
+@@view cm-lv-01
+@model Concept
+@level Local
+@sublevel Primary Datatype
+@number 1
+@description "Shows dtAmessage primary datatype. "
+@caption ""
