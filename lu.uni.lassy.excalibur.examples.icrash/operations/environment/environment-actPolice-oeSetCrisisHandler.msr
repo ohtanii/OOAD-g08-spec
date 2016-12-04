@@ -1,0 +1,20 @@
+package icrash.operations.environment.actPolice.oeSetCrisisHandler {
+
+import lu.uni.lassy.messir.libraries.primitives
+import lu.uni.lassy.messir.libraries.math
+import lu.uni.lassy.messir.libraries.string
+import lu.uni.lassy.messir.libraries.calendar
+
+import icrash.concepts.primarytypes.datatypes
+import icrash.concepts.primarytypes.classes
+import icrash.concepts.secondarytypes.datatypes
+import icrash.environment
+
+Operation Model {
+
+operation: actPolice.outactPolice.oeSetCrisisHandler(AdtCrisisID:dtCrisisID):ptBoolean{
+prolog{"src/Operations/Environment/OUT/outactPolice-oeSetCrisisHandler.pl"}
+}
+
+}
+}
